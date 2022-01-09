@@ -58,8 +58,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Tusharbecoding/github-readme-stats"><img alt="Tusharbecoding's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tusharbecoding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Tusharbecoding/github-readme-stats"><img alt="Tusharbecoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a><img alt="Tusharbecoding's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Tusharbecoding&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a><img alt="Tusharbecoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -67,7 +67,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Tusharbecoding/github-readme-activity-graph"><img alt="Tusharbecoding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tusharbecoding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Tusharbecoding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tusharbecoding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -83,7 +83,4 @@
 </p>
 
 ## ❤ Views and Followers
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
-</a> -->
 <a href="https://github.com/Tusharbecoding?tab=followers"><img src="https://img.shields.io/github/followers/Tusharbecoding?label=Followers&style=social" alt="GitHub Badge"></a>
