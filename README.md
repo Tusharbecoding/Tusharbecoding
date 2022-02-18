@@ -6,9 +6,10 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
+- 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
 
 - 🌱 I’m currently learning 
+  - **React.js**
   - **Data Structures and Algorithms.**
   - **Advanced JavaScript**
   - **Figma for UI/UX designing**
