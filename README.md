@@ -7,6 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
+- 🔭 Currently working as a frontend and UI/UX design intern at **[Lifesap]**
 
 - 🌱 I’m currently learning 
   - **React.js**
