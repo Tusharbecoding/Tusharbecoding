@@ -82,6 +82,7 @@
 <a href = "https://twitter.com/TusharC29050031"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tushu0___0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqd4TkSg_RGhpcmUkXhg1oA/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://www.behance.net/tusharchopra02122002"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>  
 
 </p>
 
