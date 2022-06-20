@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tushar</h1>
-<h3 align="center">I'm currently a first year computer science student at Thapar Institute with a keen interest in Data Science and Web development</h3>
+<h3 align="center">I'm currently a second year computer science student at Thapar Institute with a keen interest in Data Science, Web development and Blockchain</h3>
 
 
 ## 🙋‍♂️ About Me
