@@ -9,12 +9,16 @@
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
 - 🔭 Currently working as a frontend and UI/UX design intern at **Lifesap**
 
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning and working on
   - **React.js**
   - **Data Structures and Algorithms.**
   - **Advanced JavaScript**
   - **Figma for UI/UX designing**
   - **Machine Learning using Tensorflow and Keras**
+  - **Web3js**
+  - **Solidity**
+  - **Node.js**
+  - **Stock Market Analysis**
   
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
