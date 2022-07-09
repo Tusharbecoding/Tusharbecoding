@@ -7,7 +7,8 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
-- 🔭 Currently working as a frontend and UI/UX design intern at **Lifesap**
+- 🔭 I worked as a frontend developer and UI/UX design intern at **Lifesap**
+- 🔭 Currently working as a frontend react native developer at **[Rasta](https://www.rasta.in/)**
 
 - 🌱 I’m currently learning and working on
   - **React.js**
@@ -19,6 +20,7 @@
   - **Solidity**
   - **Node.js**
   - **Stock Market Analysis**
+  - **React Native**
   
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
