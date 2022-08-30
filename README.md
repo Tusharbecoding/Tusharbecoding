@@ -79,7 +79,7 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharbecoding&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
-<p align="left"><a href="https://github.com/jogeshgupta963"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=jogeshgupta963&show_icons=true&theme=radical" alt="jogeshgupta963"></a></p>
+<p align="left"><a href="https://github.com/Tusharbecoding"><img alt="STATS" src="https://github-readme-stats.vercel.app/api?username=Tusharbecoding&show_icons=true&theme=radical" alt="Tusharbecoding"></a></p>
 
 
 
