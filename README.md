@@ -104,3 +104,4 @@
 
 ## ❤ Views and Followers
 <a href="https://github.com/Tusharbecoding?tab=followers"><img src="https://img.shields.io/github/followers/Tusharbecoding?label=Followers&style=social" alt="GitHub Badge"></a>
+![Profile views](https://gpvc.arturio.dev/Tusharbecoding)
