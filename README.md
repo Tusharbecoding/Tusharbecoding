@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Currently working as a frontend react native developer at **[Rasta](https://www.rasta.in/)**
+- 🔭 Worked as a react native developer at **[Rasta](https://www.rasta.in/)**
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
 - 🔭 I worked as a frontend developer and UI/UX design intern at **Lifesap**
 
