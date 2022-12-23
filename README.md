@@ -12,6 +12,7 @@
 
 
 - 🌱 I’m currently learning and working on
+  - **Next.js**
   - **React.js**
   - **Data Structures and Algorithms.**
   - **Advanced JavaScript**
