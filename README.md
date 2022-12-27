@@ -50,6 +50,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/wordpress.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
