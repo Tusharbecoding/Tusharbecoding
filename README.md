@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tushar</h1>
-<h3 align="center">I'm currently a second year computer science student at Thapar Institute with a keen interest in Data Science, Web development and Blockchain</h3>
+<h3 align="center">I'm currently a second year computer science student at Thapar Institute with a keen interest in DevOps, Web development, Blockchain and Cybersecurity</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -12,12 +12,13 @@
 
 
 - 🌱 I’m currently learning and working on
+  - **Docker**
+  - **Ethical Hacking**
   - **Next.js**
   - **React.js**
   - **Data Structures and Algorithms.**
   - **Advanced JavaScript**
   - **Figma for UI/UX designing**
-  - **Machine Learning using Tensorflow and Keras**
   - **Web3js**
   - **Solidity**
   - **Node.js**
@@ -89,7 +90,7 @@
 <br/>
 <br/>
 
-<a><img alt="Tusharbecoding's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Tusharbecoding&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
