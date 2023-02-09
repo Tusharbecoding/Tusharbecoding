@@ -53,6 +53,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/typescript.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img width= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img width= "48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>
