@@ -3,6 +3,7 @@
 <h1 align="center">Hi, I'm Tushar</h1>
 <h3 align="center">I'm currently a second year computer science student at Thapar Institute with a keen interest in DevOps, Web development, Blockchain and Cybersecurity</h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/Tusharbecoding&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🙋‍♂️ About Me
 
