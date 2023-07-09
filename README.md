@@ -90,7 +90,7 @@
   <a><img alt="Tusharbecoding's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusharbecoding&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharbecoding&bg_color=80,c9ffbf,ffafbd&title_color=313552&text_color=886f6f&v=2"/>
+<img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharbecoding&bg_color=0f0f0f&title_color=313552&text_color=886f6f&v=2"/>
 
 
 
