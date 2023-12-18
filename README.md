@@ -7,7 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working as a Web3 Developer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
+- 🔭 Working as a Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
+- 🔭 Worked as a Web3 Developer Intern at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a react native developer at **[Rasta](https://www.rasta.in/)**
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
 - 🔭 I worked as a frontend developer and UI/UX design intern at **Lifesap**
