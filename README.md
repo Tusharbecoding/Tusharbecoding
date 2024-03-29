@@ -7,7 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working as a Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
+- 🔭 Working as a Fullstack Engineer Intern at **[Subconscious.ai](https://www.subconscious.ai/)**
+- 🔭 Worked as a Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a Web3 Developer Intern at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a react native developer at **[Rasta](https://www.rasta.in/)**
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
