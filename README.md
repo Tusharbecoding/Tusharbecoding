@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tushar</h1>
-<h3 align="center">I'm currently a second year computer science student at Thapar Institute with a keen interest in DevOps, Web development, Blockchain and Cybersecurity</h3>
+<h3 align="center">I'm currently a forth year computer science student at Thapar University with a keen interest in DevOps, Fullstack development, Blockchain and Cybersecurity</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tusharbecoding&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
