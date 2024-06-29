@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="./image.jpeg" height="175px"/></a>
 
 <h1 align="center">Hi, I'm Tushar</h1>
 <h3 align="center">I'm currently a forth year computer science student at Thapar University with a keen interest in DevOps, Fullstack development, Blockchain and Cybersecurity</h3>
@@ -14,8 +14,8 @@
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
 - 🔭 I worked as a frontend developer and UI/UX design intern at **Lifesap**
 
-
 - 🌱 I’m currently learning and working on
+
   - **Docker**
   - **Ethical Hacking**
   - **Next.js**
@@ -28,10 +28,8 @@
   - **Node.js**
   - **Stock Market Analysis**
   - **React Native**
-  
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
 
 - 📫 How to reach me **tusharchopra02122002@gmail.com**
 
@@ -71,7 +69,6 @@
     
 </p>
 
-
 <br/>
 
 <p align="center">
@@ -89,28 +86,29 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <img style="margin-bottom:20px;display:flex;flex:1" src="https://github-readme-stats.vercel.app/api/wakatime?username=Tusharbecoding&bg_color=0f0f0f&title_color=313552&text_color=886f6f&v=2"/>
 
-
-
-
 <br/>
 <br/>
 
-
-
-<br/>
 <br/>
 
 ## Connect with me:
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/tushar-chopra-960532215/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/TusharC29050031"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/tushu0___0/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqd4TkSg_RGhpcmUkXhg1oA/featured"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.behance.net/tusharchopra02122002"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>  
+<a href = "https://www.behance.net/tusharchopra02122002"><img src="https://img.icons8.com/color/48/000000/behance.png"/></a>
 
 </p>
 
+<a href="https://buymeacoffee.com/tusharbecoding
+  " target="_blank" rel="noreferrer nofollow">
+<img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+</a>
+
 ## ❤ Views and Followers
+
 <a href="https://github.com/Tusharbecoding?tab=followers"><img src="https://img.shields.io/github/followers/Tusharbecoding?label=Followers&style=social" alt="GitHub Badge"></a>
 ![Profile views](https://gpvc.arturio.dev/Tusharbecoding)
