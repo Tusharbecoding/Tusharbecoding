@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Worked as a Software Engineer at **[Subconscious.ai](https://www.subconscious.ai/)**
+- 🔭 Working as a Software Engineer at **[Subconscious.ai](https://www.subconscious.ai/)**
 - 🔭 Worked as a Software Engineer Intern at **[Subconscious.ai](https://www.subconscious.ai/)**
 - 🔭 Worked as a Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a Web3 Developer Intern at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
