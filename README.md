@@ -10,7 +10,7 @@
 - 🔭 Working as a Founding Fullstack Engineer Intern at **[Kaaj Technologies](https://kaaj.ai/)**
 - 🔭 Worked as a Software Engineer at **[Subconscious.ai](https://www.subconscious.ai/)**
 - 🔭 Worked as a Software Engineer Intern at **[Subconscious.ai](https://www.subconscious.ai/)**
-- 🔭 Worked as a Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
+- 🔭 Worked as a Founding Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a Web3 Developer Intern at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
 - 🔭 Worked as a react native developer at **[Rasta](https://www.rasta.in/)**
 - 🔭 I worked as a web dev intern at **[DigiTech Buds](https://digitechbuds.com/)**
