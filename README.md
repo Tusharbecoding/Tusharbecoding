@@ -22,10 +22,10 @@
   - **React.js**
   - **Rust**
   - **Advanced TypeScript**
-  - **Web3js**
-  - **Solidity**
-  - **Node.js**
-  - **Swift**
+  - **Agentic AI**
+  - **Machine Learning**
+  - **LLMs**
+  - **Python**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
