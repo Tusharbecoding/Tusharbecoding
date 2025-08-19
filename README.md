@@ -7,7 +7,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working as a Founding Fullstack Engineer Intern at **[Kaaj Technologies](https://kaaj.ai/)**
+- 🔭 Working as a Software Engineer at **[Foundry](https://www.foundryrl.com/)**
+- 🔭 Worked as a Founding Fullstack Engineer Intern at **[Kaaj Technologies](https://kaaj.ai/)**
 - 🔭 Worked as a Software Engineer at **[Subconscious.ai](https://www.subconscious.ai/)**
 - 🔭 Worked as a Software Engineer Intern at **[Subconscious.ai](https://www.subconscious.ai/)**
 - 🔭 Worked as a Founding Frontend Engineer at **[Carmony](https://www.linkedin.com/company/carmonyinc/about/)**
